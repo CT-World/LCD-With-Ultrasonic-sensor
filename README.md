@@ -1,2 +1,2 @@
-# LCD-With-Ultrasonic-sensor
-this is the required libraries and code for the project by CT World
+# LiquidCrystal_I2C
+LiquidCrystal Arduino library for the DFRobot I2C LCD displays
